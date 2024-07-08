@@ -1,0 +1,12 @@
+body{background-color: #A6DEEC}
+img {display: block; margin:auto;}
+img {class:w3-border;border-style: solid; border-color: black;}
+h1 {color: #0C4B5B; font-family: PAPYRUS; font-size: 40px;border-width:5px;
+border-style:double;
+padding-top: 10px;
+text-align:center;}
+p{color: #034353; font-family: Halvetica; font-size: 20px; padding: 15px;}
+a{text-decoration:none;color: #0C4B5B; font-family: Halvetica; font-size: 20px; padding: 10px; background-color: lightpink;}
+a:hover{color: dark black;}
+ul{list-style:none;}
+li {display: inline; padding-right: 40px;}
